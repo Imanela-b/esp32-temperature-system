@@ -54,3 +54,4 @@ Once flashing is complete, your device will start sending data. It should appear
 Git practice - my first branch.
 I am learning Git and GitHub.
 Learning how to use fetch and pull.
+Practising Conventional Commits.
