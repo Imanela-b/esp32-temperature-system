@@ -52,3 +52,4 @@ Once flashing is complete, your device will start sending data. It should appear
 - Install the PlatformIO VS Code extension
 - Run frontend locally with `make frontend-start`
 Git practice - my first branch.
+I am learning Git and GitHub.
